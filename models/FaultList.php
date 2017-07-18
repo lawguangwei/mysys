@@ -5,6 +5,7 @@
  * Date: 2017-07-18
  * Time: 9:46
  */
+namespace app\models;
 use yii\db\ActiveRecord;
 
 class FaultList extends ActiveRecord{
